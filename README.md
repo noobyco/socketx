@@ -16,3 +16,12 @@ It is a room-based chat application built using WebSocket for smooth communicati
 ![image](https://github.com/noobyco/socketx/assets/59837486/a938eae3-8bdd-486d-a5a2-f329df429e9c)
 
 
+## Run it locally
+
+1. Clone `SocketX` repository
+
+```git clone git@github.com:noobyco/socketx.git```
+
+2. Run application
+
+```npm run start```
