@@ -4,7 +4,7 @@ It is a room-based chat application built using Javascript in backend. For real-
 
 <br>
 
-Socketx is deployed and ready to use at - [socketx.onrender.com](https://socketx.onrender.com)
+Socketx is deployed and ready to use at - [socketx-production.up.railway.app](https://socketx-production.up.railway.app/)
 
 <br>
 
